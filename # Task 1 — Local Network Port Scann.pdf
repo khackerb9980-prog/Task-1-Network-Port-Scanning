@@ -1,0 +1,36 @@
+# Task 1 — Local Network Port Scanning  
+Cyber Security Internship Project
+
+## 🔍 Objective  
+To discover devices and open ports present in my local network using Nmap and understand basic network exposure and reconnaissance techniques.
+
+
+## 🛠 Tools Used
+- Nmap  
+- Wireshark (optional)  
+- Linux / Windows Terminal  
+
+
+## 📡 Steps Performed
+
+### **1️⃣ Inatalled Nmap** 
+ kali linux
+
+
+
+
+
+### **2️⃣Found My Local Ip Range** 
+
+Identified target range:  
+**172.30.42.208/24**
+
+
+
+### **3️⃣ Ran a TCP SYN Scan**
+
+
+
+
+
+
