@@ -1,4 +1,4 @@
-# Task 1 — Local Network Port Scanning  
+﻿# Task 1 — Local Network Port Scanning  
 Cyber Security Internship Project
 
 ## 🔍 Objective  
@@ -11,7 +11,7 @@ To discover devices and open ports present in my local network using Nmap and un
 - Linux / Windows Terminal  
 
 
-## 📡 Steps Performed
+## 📡 Steps Performed	
 
 ### **1️⃣ Inatalled Nmap** 
  kali linux
